@@ -4,8 +4,3 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 ---
-
-## HOME PAGE CONTENT
-
-
-## TEST
