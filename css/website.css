@@ -1,10 +1,7 @@
-*{
-  margin: 0;
-  padding: 0
-  box-sizing: border-box;
-}
-.page{
-  margin-top: 50px;
+.header {
+  margin: 2rem 0rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px #ccc solid
 }
 .card {
   border: 1px solid red;
