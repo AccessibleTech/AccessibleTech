@@ -55,14 +55,6 @@ Footer .fa{
     transition:color 0.2s;
 }
 
-Footer .fa-facebook:hover{
-   color: #2b55ff;
-}
-
-Footer .fa-facebook:focus{
-    color: #2b55ff;
-}
-
 Footer .fa-github:hover{
     color:red;
 }
